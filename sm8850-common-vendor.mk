@@ -363,7 +363,6 @@ PRODUCT_PACKAGES += \
     libclstc_tm \
     libcpion \
     libcwb_client_vendor \
-    libcwb_qcom_aidl \
     libdemura_oem_plugin \
     libdev_bt \
     libdev_speaker \
@@ -398,7 +397,6 @@ PRODUCT_PACKAGES += \
     libhdrdynamic \
     libhdrdynamicootf \
     libhdrvivid \
-    libhwcsensor \
     libidl \
     libidv \
     libintervmipc \
@@ -776,7 +774,6 @@ PRODUCT_PACKAGES += \
     manifest_displaycolorfeature_aidl.xml \
     manifest_oplusSensor_aidl.xml \
     manifest_oplus_charger_aidl.xml \
-    manifest_oplus_cwb_aidl.xml \
     manifest_oplus_displaypanelfeature_aidl.xml \
     manifest_oplus_face.xml \
     manifest_touch_aidl.xml \
