@@ -333,7 +333,6 @@ PRODUCT_PACKAGES += \
     libQSEEComAPI \
     libQshQmiIDL \
     libQshSession \
-    libTxPwrJni \
     libVirtClientInterface \
     libadm \
     libadreno_app_profiles \
